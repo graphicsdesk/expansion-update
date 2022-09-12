@@ -7,12 +7,188 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "An inquiry into potentially increasing the number of undergraduate students in Columbia College and the School of Engineering and Applied Science culminated last spring in a series of faculty reports that offer a road map for improving the student and faculty experience at Columbia and postponed the conversation on expansion."
+          },
+          {
+            "type": "text",
+            "value": "An eight-page steering committee report sent to faculty in June recommends putting off evaluating the “timing and feasibility” of expansion until this fall or spring 2025 to coincide with the opening of the renovated <a href=\"https://www.columbiaspectator.com/news/2021/11/04/faculty-of-arts-and-sciences-plans-renovations-departmental-transfers-for-uris-hall/\">Uris Hall</a>, which will be called the Lavine Center after Jonathan Lavine, chair of the University board of trustees who made a multimillion donation that will fund more classroom, department, research, and student space in the building."
+          },
+          {
+            "type": "text",
+            "value": "Bollinger placed the building, which is behind Low Library, under the Faculty of Arts and Sciences umbrella following the Business School’s <a href=\"https://www.columbiaspectator.com/news/2022/01/31/business-school-officially-moves-to-manhattanville-campus/\">planned move</a> to the Manhattanville campus early this year. Fully utilizing it could significantly relieve some of the pressures felt by students and faculty after a pandemic-generated enrollment bubble resulted in roughly 800 more undergraduate students last year than the year prior."
+          },
+          {
+            "type": "text",
+            "value": "In the meantime, the report recommends that administrators expand or contract the undergraduate student body by “no more than” one to three percent in order to preserve the “historical proportions” of Columbia College, SEAS, and School of General Studies students in campus housing."
+          },
+          {
+            "type": "text",
+            "value": "It was a quiet end to months of sometimes controversial work from nearly a dozen committees and subcommittees made up of faculty and administrators from SEAS and FAS, the cluster of graduate and undergraduate schools including Columbia College and General Studies, but excluding SEAS, considered by many to be the core of the University."
+          },
+          {
+            "type": "text",
+            "value": "FAS has long suffered budgetary woes, particularly under the weight of the rising cost of financial aid, which it <a href=\"https://www.columbiaspectator.com/news/2022/09/08/upgrades-to-undergraduate-financial-aid-take-effect/\">recently pledged to enhance</a>, as well as the University’s ever-increasing annual tax on the entire budgetary unit. The tax, referred to as the “common cost,” has paid for much of the University’s expansion into Manhattanville, which has at this point mostly benefited the professional schools."
+          },
+          {
+            "type": "text",
+            "value": "To shore up its finances, FAS at one point over the last decade worked<a href=\"https://www.columbiaspectator.com/news/2020/05/24/columbia-wants-the-best-and-the-brightest-students-to-keep-up-with-top-ranked-schools-it-needs-the-richest-too-2/\"> out a strategy</a> to  increase undergraduate tuition by 50 percent and boost the number of mostly full-paying students in masters programs at the School of Professional Studies by nearly a third. Still, in more recent years, FAS has struggled to pay expenses such as financial aid."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "scrolly.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The effort, despite being Columbia’s most extensive investigation into its undergraduate educational experience in recent years, has been criticized by some faculty for not gathering enough data on housing, dining and classroom space. It produced eight extensive reports that appear to have been only released to faculty this spring."
+          },
+          {
+            "type": "text",
+            "value": "The reports, which Spectator has obtained and will further investigate over the coming year, offer hundreds of pages of insight into the undergraduate student experience and the state of FAS. They also uncovered, according to one report, “excess capacity in many courses across most A&S departments.”"
+          },
+          {
+            "type": "text",
+            "value": "The eight reports modeled a potential expansion on a 10 percent increase in the number of students in Columbia College. That kind of expansion would mean 467 more students when using pre-pandemic enrollment numbers from 2018, which was before Columbia College in 2021 enrolled its largest class ever. A 20 percent increase from the 2018 class size, or about 339 more students, was modeled for SEAS."
+          },
+          {
+            "type": "text",
+            "value": "The findings are colored in part by some of the <a href=\"https://www.columbiaspectator.com/news/2022/04/26/restructuring-arts-and-sciences-on-his-way-out-bollinger-strains-to-fix-a-problem-some-say-can-only-be-managed/\">administrative politics</a> that informed much of the news of the last academic year. One report released by a committee led by former Columbia College Dean James Valentini, who was one of several administrators that clashed with other leaders of the expansion effort, casts the state of the Core Curriculum and student life in dire terms."
+          },
+          {
+            "type": "text",
+            "value": "“We are not confident that present Core class sizes guarantee students equal access to the educational experiences we consider hallmarks of a small seminar format,” the report says."
+          },
+          {
+            "type": "text",
+            "value": "Columbia’s Core classes are 50 to 100 percent larger than “equivalent classes” at peer institutions, according to the report, and even larger than other “small classes” at the University. Regarding housing, the working group also said the University is “not meeting the value of quality living quarters for our current population.”"
+          },
+          {
+            "type": "text",
+            "value": "The different data gathered in the inquiry and the eventual decision to put the brakes on expansion indicate that certain faculty and administrators <a href=\"https://www.columbiaspectator.com/news/2022/03/10/marred-by-politics-factions-in-expansion-inquiry-see-different-columbias/\">seemed to have different answers</a> to the question of whether Columbia is currently fulfilling the promises it makes to its undergraduate students. Half a dozen people who closely followed the expansion inquiry’s developments told Spectator <a href=\"https://www.columbiaspectator.com/news/2022/03/10/marred-by-politics-factions-in-expansion-inquiry-see-different-columbias/\">back in March</a> there had been considerable backlash from several FAS faculty as soon as it began in February 2021."
+          },
+          {
+            "type": "text",
+            "value": "On the other hand, SEAS faculty and administrators, who were involved in the expansion inquiry but are part of a separate budgetary unit, seem to have more optimism than faculty in Columbia College and General Studies—which have a more challenged budget—about expanding at some point. They will continue more sustained conversations this fall, after discussions with other faculty members and SEAS alumni, on what a potential expansion in the particular school could look like."
+          },
+          {
+            "type": "text",
+            "value": "Though SEAS is not part of FAS, an expansion of 20 percent of its undergraduates could add about 65 more students to FAS courses, including in the already strained Core Curriculum, one of the reports shows. SEAS students also live in the same dorms and share the same spaces and resources on campus as other undergraduates."
+          },
+          {
+            "type": "text",
+            "value": "On the whole, even though the reports show that FAS can accommodate increases in the number of undergraduate students in certain areas, they still recommend those increases come with a proportionate increase in faculty, classroom space, and other resources. They also highlight a range of existing challenges for which leaders in FAS have recommended improvements in the coming years before any further expansion occurs."
+          },
+          {
+            "type": "text",
+            "value": "The recommendations come on the heels of an unintended expansion of undergraduates that occurred in 2021, which occurred due to the University’s inability to predict the pandemic’s impact on admitted student yield, as well as from deferrals and leaves of absence."
+          },
+          {
+            "type": "text",
+            "value": "The enrollment bubble sparked <a href=\"https://www.columbiaspectator.com/news/2022/05/01/ccsc-survey-with-record-high-participation-reveals-unsatisfied-student-body/\">some criticism</a> of the undergraduate student experience last year. Students reported seemingly overcrowded dining halls and frustrations with classroom shortages and registration—concerns that have carried into the start of this semester, too, causing mounting consternation in the last week. It will be unclear until October of this year, when administrators tally the number of enrolled students in each school, whether the University decided to return enrollment in the undergraduate schools to pre-pandemic levels."
+          },
+          {
+            "type": "text",
+            "value": "In the steering committee report, which was delivered to University Provost Mary Boyce on June 7, Amy Hungerford, the executive vice president for Arts and Sciences and dean of the Faculty of Arts and Sciences, said the “single aspiration” of the reports was to “design the very best education and student experience that Columbia can offer.”"
+          },
+          {
+            "type": "text",
+            "value": "“An effort that began as a study of expansion has yielded a salutary surplus: new understandings of challenges to the student experience that we can address today, even as we return, at the right time, to consider a more open door,” she wrote."
+          },
+          {
+            "type": "text",
+            "value": "In an interview with Spectator, Hungerford said she and other administrators “plan to engage faculty in the coming year to talk about some achievable projects that will enhance students’ experiences in their studies and on campus.”"
+          },
+          {
+            "type": "text",
+            "value": "“There will be harder and longer-term projects as well that will require strategic thinking and lots of collaborative work,” she said."
+          },
+          {
+            "type": "text",
+            "value": "The steering committee’s report offers dozens of recommendations, some of them ambitious, which attempt to address many of the challenges in student and academic affairs that were uncovered over the course of the last academic year. They include starting to fundraise for a new dorm building, redesigning course registration, creating a “master space plan,” and increasing support for dining services."
+          },
+          {
+            "type": "text",
+            "value": "Progress has already been made on some of the challenges highlighted in the reports, including authorizing the hiring of ladder-rank faculty in the economics, political science and psychology departments. One of the reports from a committee on the 10 largest majors led by Keren Yarhi-Milo, the dean of the School of International and Public Affairs, called hiring in these departments—which are the three largest in FAS—“urgently needed.”"
+          },
+          {
+            "type": "text",
+            "value": "“These departments will not be in a position to serve additional students without hiring additional faculty prior to the starting date of expansion, and indeed already must be creative in staffing in order to mount curricula and ensure adequate contact with undergraduates even with their current numbers,” the report said."
+          },
+          {
+            "type": "text",
+            "value": "The findings from Valentini’s working group further suggested there is “no dedicated undergraduate student center.” In a presentation previewing its findings to faculty last spring, the group had previously characterized Lerner Hall, which was mostly meant to serve that purpose, as a “revenue-generating conference center.” The steering committee recommended an operational endowment be created for Lerner. That innovation could potentially create funds to allow spaces to be staffed and dedicated to students more regularly, according to the report, thus “fulfilling the original vision for the building as a student center.”"
+          },
+          {
+            "type": "text",
+            "value": "The report on large majors also illustrated the many challenges students experience when registering for classes. Waitlists for popular classes can have up to 100 students, according to waitlist data the committee reviewed from the second week of classes in the 2018-19 academic year. Students experience “great difficulty getting into certain required courses,” the report says, and predicted that even if departments increased the number of offered courses, expansion would only worsen the anxiety that students already experience because of registration."
+          },
+          {
+            "type": "text",
+            "value": "In a Columbia College Student Council survey conducted in the spring, only about 18 percent of Columbia College students said they were satisfied with the course registration process. The survey was based on 2,157 student responses."
+          },
+          {
+            "type": "text",
+            "value": "“Even classes that I literally need to complete my major and graduate on time fill up before my first registration appointment,” a student said in the anonymized survey."
+          },
+          {
+            "type": "text",
+            "value": "The current course registration system requires full-time undergraduate students in Columbia College to be registered for a minimum of 12 points. Although they are technically not allowed to exceed point limits or be registered in overlapping classes, SSOL, the system the University uses for registration, doesn’t always prevent them from doing so, and the stress of the process compels many students to overregister."
+          },
+          {
+            "type": "text",
+            "value": "In its report, the committee on large majors recommended changing registration procedures specifically around the use of waitlists. Spreading classes out across more days could give students more options and relieve some of the burden on classroom space. Hungerford has committed to working with departments, Columbia College and General Studies leadership, and Barry Kane, the University registrar, to optimize registration over the coming year."
+          },
+          {
+            "type": "text",
+            "value": "Rose Razaghian, the dean of academic planning and governance in FAS who served on the large majors committee, said she thinks moving up the period when students are forced to reconcile which courses they’ll actually enroll in to earlier in the summer, rather than the first week of the fall semester, could potentially improve the registration process."
+          },
+          {
+            "type": "text",
+            "value": "“You could have a change in people’s experience, and then I think you could have a change in the culture,” she said."
+          },
+          {
+            "type": "text",
+            "value": "Similar to the work of many other committees and working groups in the expansion inquiry, the report from the committee on large majors lays bare the successes and shortcomings of many of the departments in FAS—and, potentially, an opportunity for departments to learn from each other."
+          },
+          {
+            "type": "text",
+            "value": "“Being able to share best practices across departments,” Razaghian said, will be “crucial for our continued excellence.”"
+          },
+          {
+            "type": "text",
+            "value": "“We can’t lose sight of that,” she said."
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Zach Schermele can be contacted at </i><a href=\"mailto:zachary.schermele@columbiaspectator.com\"><i>zachary.schermele@columbiaspectator.com</i></a><i>. Follow him on Twitter </i><a href=\"https://twitter.com/ZachSchermele\"><i>@ZachSchermele</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Mehr Kaur is a Graphics deputy editor. She can be contacted at </i><a href=\"mailto:mehr.kaur@columbiaspectator.com\"><i>mehr.kaur@columbiaspectator.com</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Andrew Park can be contacted at </i><a href=\"mailto:andrew.park@columbiaspectator.com\"><i>andrew.park@columbiaspectator.com</i></a><i>. Follow him on Twitter </i><a href=\"https://twitter.com/androo_park\"><i>@androo_park</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Expansion was postponed. Instead, Arts and Sciences wants to improve.",
+        "date": "September 12, 2022",
+        "byline": "By<a href=\"https://www.columbiaspectator.com/contributors/zachary-schermele/\"> Zachary Schermele</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/MIIZGRKJTZFIXNVJ6B6CSNAFQY.JPG",
+        "cover_caption": "Photo by Genevieve Depke",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1Hl-_nG6bOQCKY7sPLVJ6xNhc9uYzKb3lOC2d_Nms0Ws/edit"
       }
     }
   }
